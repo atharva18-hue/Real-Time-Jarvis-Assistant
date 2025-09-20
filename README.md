@@ -65,24 +65,23 @@ Control your system, browse the web, check time/date, tell jokes, and interact n
 ## 💻 Installation
 
 1. **Clone the repository:**
-
-```bash
 git clone https://github.com/atharva18-hue/Real-Time-Jarvis-Assistant.git
 cd Real-Time-Jarvis-Assistant
-Install dependencies:
+-------------------------------------------------
 
-bash
-Copy code
+## Install dependencies:
 pip install -r requirements.txt
-💡 Recommended: Use a virtual environment to avoid conflicts
 
-🚀 Usage
-Launch the assistant:
+-----------------------------------------------------------------------------------
+## Recommended: 
+Use a virtual environment to avoid conflicts
 
-bash
-Copy code
+------------------------------------------------------
+## Launch the assistant:
 python main.py
-Use buttons in GUI:
+
+-----------------------------------------------
+## Use buttons in GUI:
 
 🎙️ Start → Start listening
 
@@ -90,19 +89,20 @@ Use buttons in GUI:
 
 Exit → Close application
 
-Speak commands naturally:
+--------------------------------------------
+## Speak commands naturally:
 
 Examples: "open YouTube", "tell me a joke", "what is the time?"
 
 Watch real-time conversation logs in the right panel.
 
-🖼️ Screenshots / GIF Demo
-(Add your GIFs/screenshots here — show animation, conversation log, mic pulse, etc.)
-
-📝 License
+--------------------------------------------------
+## License
 This project is licensed under the MIT License - see LICENSE for details.
 
-🙌 Contribution
+-------------------------------------------------
+
+## Contribution
 Fork the repository
 
 Create a feature branch (git checkout -b feature-name)
@@ -113,7 +113,11 @@ Push to the branch (git push origin feature-name)
 
 Open a Pull Request
 
-💬 Contact
+--------------------------------------------
+
+## Contact
 Author: Atharva Chavhan
 GitHub: atharva18-hue
 Email: atharvachavhan18@gmail.com
+
+---------------------------------------------
