@@ -117,7 +117,11 @@ Open a Pull Request
 
 ## Contact
 Author: Atharva Chavhan
+
 GitHub: atharva18-hue
+
 Email: atharvachavhan18@gmail.com
+
+linkdein:https://www.linkedin.com/in/atharva-chavhan-b5742b259/
 
 ---------------------------------------------
