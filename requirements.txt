@@ -1,0 +1,6 @@
+PyQt5>=5.15.0
+SpeechRecognition
+pyttsx3
+wikipedia
+requests
+pyaudio
